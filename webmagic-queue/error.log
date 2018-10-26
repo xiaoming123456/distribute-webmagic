@@ -1,0 +1,22 @@
+2018-10-25 11:02:42  [ main:0 ] - [ ERROR ]  1
+2018-10-25 11:20:50  [ main:0 ] - [ ERROR ]  1
+2018-10-25 11:21:39  [ main:0 ] - [ ERROR ]  1
+2018-10-25 11:53:30  [ main:0 ] - [ ERROR ]  111
+2018-10-25 11:54:21  [ main:0 ] - [ ERROR ]  111
+2018-10-25 11:54:47  [ main:0 ] - [ ERROR ]  111
+2018-10-25 11:57:08  [ main:0 ] - [ ERROR ]  111
+2018-10-25 13:32:08  [ main:0 ] - [ ERROR ]  123
+2018-10-25 13:44:57  [ main:0 ] - [ ERROR ]  123
+2018-10-25 13:47:45  [ main:0 ] - [ ERROR ]  123
+2018-10-25 17:44:23  [ Thread-0:0 ] - [ ERROR ]  io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: no further information: localhost/127.0.0.1:8080
+2018-10-25 17:44:23  [ Thread-0:2 ] - [ ERROR ]  sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:327)
+io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:340)
+io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:616)
+io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:563)
+io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:480)
+io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:442)
+io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:884)
+io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+java.lang.Thread.run(Thread.java:748)

@@ -1,0 +1,26 @@
+Manifest-Version: 1.0
+Built-By: Administrator
+Class-Path: ./lib/jruby-1.7.6.jar ./lib/jruby-core-1.7.6.jar ./lib/asm
+ -4.0.jar ./lib/asm-commons-4.0.jar ./lib/asm-tree-4.0.jar ./lib/asm-a
+ nalysis-4.0.jar ./lib/asm-util-4.0.jar ./lib/joni-2.0.0.jar ./lib/jnr
+ -netdb-1.1.2.jar ./lib/jnr-enxio-0.4.jar ./lib/jnr-x86asm-1.0.2.jar .
+ /lib/jnr-unixsocket-0.3.jar ./lib/jnr-posix-3.0.1.jar ./lib/bytelist-
+ 1.0.10.jar ./lib/jnr-constants-0.8.5.jar ./lib/jcodings-1.0.10.jar ./
+ lib/jnr-ffi-1.0.7.jar ./lib/jffi-1.2.7.jar ./lib/jffi-1.2.7-native.ja
+ r ./lib/snakeyaml-1.13.jar ./lib/jzlib-1.1.2.jar ./lib/invokebinder-1
+ .2.jar ./lib/nailgun-server-0.9.1.jar ./lib/yecht-1.0.jar ./lib/joda-
+ time-2.3.jar ./lib/jruby-stdlib-1.7.6.jar ./lib/kotlin-stdlib-1.1.2-2
+ .jar ./lib/annotations-13.0.jar ./lib/groovy-all-2.1.6.jar ./lib/jyth
+ on-2.5.3.jar ./lib/commons-cli-1.2.jar ./lib/webmagic-core-0.7.3.jar 
+ ./lib/httpclient-4.5.2.jar ./lib/httpcore-4.4.4.jar ./lib/commons-log
+ ging-1.2.jar ./lib/commons-codec-1.9.jar ./lib/commons-lang3-3.1.jar 
+ ./lib/xsoup-0.3.1.jar ./lib/slf4j-api-1.7.6.jar ./lib/slf4j-log4j12-1
+ .7.6.jar ./lib/log4j-1.2.17.jar ./lib/commons-collections-3.2.2.jar .
+ /lib/jsoup-1.10.3.jar ./lib/commons-io-1.3.2.jar ./lib/json-path-2.4.
+ 0.jar ./lib/json-smart-2.3.jar ./lib/accessors-smart-1.2.jar ./lib/fa
+ stjson-1.2.28.jar ./lib/webmagic-extension-0.7.3.jar ./lib/jedis-2.9.
+ 0.jar ./lib/commons-pool2-2.4.2.jar
+Build-Jdk: 1.8.0_144
+Created-By: Maven Integration for Eclipse
+Main-Class: us.codecraft.webmagic.scripts.ScriptConsole
+
