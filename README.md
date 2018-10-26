@@ -11,6 +11,7 @@ selenium启动需要相应的浏览器插件
 distribute-webmagic 一个只要用js就可以爬取电商信息的分布式框架
 
 webmagic-queue 详解 https://blog.csdn.net/qq_31005107/article/details/83417310
+
 webmagic-selenium 详解 https://blog.csdn.net/qq_31005107/article/details/83419094
 
 线性执行的没有什么问题，应该会有些bug，欢迎小伙伴给我反馈，包括建议哟~ 
