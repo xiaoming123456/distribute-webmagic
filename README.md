@@ -6,6 +6,7 @@ QueueServer类作为任务队列服务，QueueClient类作为请求端访问，T
 2.重写组件webmagic-selenium，基本selenium的机器人爬虫，主要方式是调用浏览器内核来执行js。
 和webmagic-queue组件集成分布式机器人爬虫，且有优雅退出方式为‘exit’,定时任务收集数据入库，原生PageProcessor的升级版SeleniumProcessor，更加简单使用。针对电商规格的普通标签，单选框，多选框，下拉框，等情况的爬取已做处理，严格意义只用会js获取标签名，便可以爬虫入库。
 
+selenium启动需要相应的浏览器插件
 
 distribute-webmagic 一个只要用js就可以爬取电商信息的分布式框架
 
